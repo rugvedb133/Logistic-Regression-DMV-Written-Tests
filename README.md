@@ -1,4 +1,4 @@
-# Logistic-Regression-DMV-Written-Tests
+# Logistic Regression - DMV Written Tests
 
 This project was performed as part of the course [*Logistic Regression with NumPy and Python*](https://www.coursera.org/account/accomplishments/certificate/JFYMHKYCLET8) on Coursera.
 
